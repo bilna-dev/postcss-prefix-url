@@ -22,7 +22,8 @@
   "dependencies": {
     "consistent": "^1.1.0",
     "postcss": "^5.2.15",
-    "postcss-functions": "^2.1.1"
+    "postcss-functions": "^2.1.1",
+    "url-join": "^4.0.0"
   },
   "devDependencies": {
     "ava": "^0.18.2"
